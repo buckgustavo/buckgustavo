@@ -6,17 +6,20 @@ I build **scalable products**, **high-performance APIs**, and **intelligent dist
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
 With specialized experience in backend services using Python (FastAPI), Go (gRPC), Node.js, and Java (Spring Boot), I excel in migrating architectures from monoliths to microservices. I also have a strong background in low-level spectrum, developing **firmware for industrial systems** using C/C++ and RTOS.
-
+https://github.com/user-attachments/assets/176899b4-43b2-4fcd-9b44-0f859b842af0
 > ⚠️ **Note:** I recently lost access to my main GitHub account. I'm starting this profile from scratch to rebuild my portfolio, but I bring with me all the background, code, and experience accumulated so far! 🚀
 
 ---
 
 ## 🌐 Workspace & AI Flow
 
-Here is a visual representation of how I blend backend development with the emerging power of AI, illustrated by my workspace at night.
-
 <div align="center">
   <video src="videogit.mp4" width="100%" controls autoplay loop muted></video>
+  
+
+https://github.com/user-attachments/assets/176899b4-43b2-4fcd-9b44-0f859b842af0
+
+
 </div>
 
 ---
