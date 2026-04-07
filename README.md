@@ -1,11 +1,11 @@
 # Hi 👋, I'm Luís Gustavo Buck (buckgustavo)
 
-🚀 **Pleno Software Engineer | Backend & Fullstack Specialist | Python, Go & AI**,  Brasil
+🚀 **Pleno Software Engineer | Backend & Fullstack Specialist | Python, Go & AI** 🇧🇷 Brasil
 
 I build **scalable products**, **high-performance APIs**, and **intelligent distributed web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-With specialized experience in backend services using Python (FastAPI), Go (gRPC), and Java (Spring Boot), I excel in migrating architectures from monoliths to microservices. I also have a strong background in low-level spectrum, developing **firmware for industrial systems** using C/C++ and RTOS.
+With specialized experience in backend services using Python (FastAPI), Go (gRPC), Node.js, and Java (Spring Boot), I excel in migrating architectures from monoliths to microservices. I also have a strong background in low-level spectrum, developing **firmware for industrial systems** using C/C++ and RTOS.
 
 > ⚠️ **Note:** I recently lost access to my main GitHub account. I'm starting this profile from scratch to rebuild my portfolio, but I bring with me all the background, code, and experience accumulated so far! 🚀
 
@@ -16,7 +16,7 @@ With specialized experience in backend services using Python (FastAPI), Go (gRPC
 Here is a visual representation of how I blend backend development with the emerging power of AI, illustrated by my workspace at night.
 
 <div align="center">
-  <video src="videogit" width="100%" controls autoplay loop muted></video>
+  <video src="Vídeo_Sério_Pronto_Para_Uso.mp4" width="100%" controls autoplay loop muted></video>
 </div>
 
 ---
@@ -39,23 +39,24 @@ Here is a visual representation of how I blend backend development with the emer
 
 ## 🧠 What I do
 
--   🏗️ **Scalable Architectures & Microservices:** Building resilient systems with Go and Java, specialized in monolith-to-microservices migration.
+-   🏗️ **Scalable Architectures & Microservices:** Building resilient systems with Go, Java, and Node.js, specialized in monolith-to-microservices migration.
 -   🤖 **AI Integration & Chatbots:** Developing intelligent agents and chatbots with LLMs and LangChain.
--   ⚡ **High-Performance APIs:** Specialized in RESTful services (FastAPI) and real-time processing (asyncio).
+-   ⚡ **High-Performance APIs:** Specialized in RESTful services (FastAPI, Node.js) and real-time processing (asyncio).
+-   🎨 **Modern Frontend:** Building dynamic interfaces and SSR applications using React and Next.js.
 -   🧩 **System Design & Clean Architecture:** Creating modular, maintainable, and robust code bases.
 -   💳 **Gateways & Payments:** Complex integrations for large user bases (>500 active users).
 -   ⚡ **Database Optimization:** Modeling and optimizing SQL queries for significant performance gains (~35%).
 -   🔌 **Firmware & RTOS:** Low-level development (C/C++) for industrial hardware automation.
--   🎓 **Certifications:** Cloud-native AI and advanced development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend & APIs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
@@ -65,6 +66,7 @@ Here is a visual representation of how I blend backend development with the emer
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
