@@ -6,7 +6,7 @@ I build **scalable products**, **high-performance APIs**, and **intelligent dist
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
 With specialized experience in backend services using Python (FastAPI), Go (gRPC), Node.js, and Java (Spring Boot), I excel in migrating architectures from monoliths to microservices. I also have a strong background in low-level spectrum, developing **firmware for industrial systems** using C/C++ and RTOS.
-https://github.com/user-attachments/assets/176899b4-43b2-4fcd-9b44-0f859b842af0
+
 > ⚠️ **Note:** I recently lost access to my main GitHub account. I'm starting this profile from scratch to rebuild my portfolio, but I bring with me all the background, code, and experience accumulated so far! 🚀
 
 ---
@@ -99,10 +99,10 @@ https://github.com/user-attachments/assets/176899b4-43b2-4fcd-9b44-0f859b842af0
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=buckgustavo&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buckgustavo&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=buckgustavo&show_icons=true&theme=tokyonight&count_private=true" />
+  
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buckgustavo&layout=compact&theme=tokyonight&hide=html,css&langs_count=8&count_private=true" />
 </p>
-
 ---
 
 ## 🚀 Philosophy
