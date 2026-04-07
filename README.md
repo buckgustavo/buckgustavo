@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luís Gustavo Buck (buckgustavo)
 
-🚀 **Pleno Software Engineer | Backend & Fullstack Specialist | Python, Go & AI** 🇧🇷 Franca - SP, Brazil
+🚀 **Pleno Software Engineer | Backend & Fullstack Specialist | Python, Go & AI**,  Brasil
 
 I build **scalable products**, **high-performance APIs**, and **intelligent distributed web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
@@ -16,7 +16,7 @@ With specialized experience in backend services using Python (FastAPI), Go (gRPC
 Here is a visual representation of how I blend backend development with the emerging power of AI, illustrated by my workspace at night.
 
 <div align="center">
-  <video src="vvideogit" width="100%" controls autoplay loop muted></video>
+  <video src="videogit" width="100%" controls autoplay loop muted></video>
 </div>
 
 ---
@@ -27,7 +27,7 @@ Here is a visual representation of how I blend backend development with the emer
   <a href="https://github.com/buckgustavo">
     <img src="https://img.shields.io/badge/GitHub-BUCKGUSTAVO-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/luis-gustavo-moreira-buck/">
+  <a href="https://www.linkedin.com/in/lu%C3%ADsgustavomoreirabuck/">
     <img src="https://img.shields.io/badge/LinkedIn-LUIS%20GUSTAVO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gustavobuck14@gmail.com">
@@ -39,7 +39,7 @@ Here is a visual representation of how I blend backend development with the emer
 
 ## 🧠 What I do
 
--   🏗️ **Scalable Architectures & Microservices:** Building resilient systems with Go and Java, specialized in monolith-to-microservices migration (C# .NET experience).
+-   🏗️ **Scalable Architectures & Microservices:** Building resilient systems with Go and Java, specialized in monolith-to-microservices migration.
 -   🤖 **AI Integration & Chatbots:** Developing intelligent agents and chatbots with LLMs and LangChain.
 -   ⚡ **High-Performance APIs:** Specialized in RESTful services (FastAPI) and real-time processing (asyncio).
 -   🧩 **System Design & Clean Architecture:** Creating modular, maintainable, and robust code bases.
