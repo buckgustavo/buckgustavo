@@ -16,7 +16,7 @@ With specialized experience in backend services using Python (FastAPI), Go (gRPC
 Here is a visual representation of how I blend backend development with the emerging power of AI, illustrated by my workspace at night.
 
 <div align="center">
-  <video src="Vídeo_Sério_Pronto_Para_Uso.mp4" width="100%" controls autoplay loop muted></video>
+  <video src="videogit.mp4" width="100%" controls autoplay loop muted></video>
 </div>
 
 ---
